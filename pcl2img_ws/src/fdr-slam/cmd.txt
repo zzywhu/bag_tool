@@ -1,0 +1,2 @@
+roslaunch pointsProjection pointsProjection.launch
+rosbag play rosbag.bag
