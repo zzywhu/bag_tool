@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/zzy/bag_tool/img_undist/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/fisheye_undistort.dir/src/fisheye_undistort.cpp.o -c /home/zzy/bag_tool/img_undist/src/fisheye_undistort.cpp",
+  "file": "/home/zzy/bag_tool/img_undist/src/fisheye_undistort.cpp",
+  "output": "CMakeFiles/fisheye_undistort.dir/src/fisheye_undistort.cpp.o"
+}
+]
